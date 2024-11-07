@@ -15,4 +15,4 @@ artifacts:
         - scripts/stop_server
         - index.html
         - appspec.yml
-    discard-paths: ye
+    discard-paths: yes
